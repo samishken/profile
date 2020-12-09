@@ -2,9 +2,8 @@
   "name": "website2",
   "version": "1.0.0",
   "description": "Welcome to my profile page",
-  "main": "index.js",
+  "main": "dist/index.html",
   "scripts": {
-    "start": "node dist/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
